@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Romashka
+Hi ! My name is Romashka
 ================================================================================================================================
 
 I’m an enthusiastic developer specializing in blockchain technology, open-source projects, and performance optimization. I enjoy collaborating on innovative GitHub repositories and continuously seek opportunities to enhance code quality and documentation for impactful contributions.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [chernozub777@gmail.com](mailto:chernozub777@gmail.com)
 * 🧠  I'm learning DEFI
 
 ### Skills

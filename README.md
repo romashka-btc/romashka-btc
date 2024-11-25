@@ -31,8 +31,4 @@ src="https://img.shields.io/twitter/follow/@SHolder24?logo=twitter&style=for-the
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ EVM - 0x094887bd24954e8a08b9828e5c9acb1751d1fd9f"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+EVM - 0x094887bd24954e8a08b9828e5c9acb1751d1fd9f

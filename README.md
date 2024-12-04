@@ -29,6 +29,4 @@ src="https://img.shields.io/twitter/follow/@SHolder24?logo=twitter&style=for-the
 
 <a href="http://www.github.com/romashka-btc"><img src="https://github-readme-stats.vercel.app/api?username=romashka-btc&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="romashka-btc's GitHub stats" /></a>
 
-### Support Me
 
-EVM - 0x094887bd24954e8a08b9828e5c9acb1751d1fd9f

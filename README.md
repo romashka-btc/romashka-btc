@@ -7,9 +7,6 @@ Web3 and cryptocurrency enthusiast with deep experience in DeFi and decentralize
 * ✉️  You can contact me at [learned.02.cheeks@icloud.com](mailto:learned.02.cheeks@icloud.com)
 * 🤝  I'm open to collaborating on DeFi projects and cryptocurrency-related tools
 
-<a href="https://www.x.com/@SHolder24" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@SHolder24?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"
-/></a>
 
 
 
